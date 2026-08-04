@@ -204,10 +204,10 @@ $ sysctl --query-developer-profile --verbose
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PARTHPIPALIYA1101&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0b0e14&title_color=00f0ff&icon_color=00f0ff&text_color=e2e8f0&border_radius=10" height="190" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=PARTHPIPALIYA1101&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0b0e14&title_color=00f0ff&icon_color=00f0ff&text_color=e2e8f0&border_radius=10" height="190" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTHPIPALIYA1101&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0b0e14&title_color=00f0ff&text_color=e2e8f0&border_radius=10" height="190" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PARTHPIPALIYA1101&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0b0e14&title_color=00f0ff&text_color=e2e8f0&border_radius=10" height="190" alt="Top Languages" />
     </td>
   </tr>
   <tr>
