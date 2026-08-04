@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- PROFILE PHOTO AVATAR -->
+<a href="https://github.com/PARTHPIPALIYA1101">
+  <img src="https://github.com/PARTHPIPALIYA1101.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 20px rgba(0, 240, 255, 0.6);" alt="Parth Pipaliya Profile Photo" />
+</a>
+
+<br/><br/>
+
 <!-- CAPSULE ANIMATED HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e14,40:00f0ff,70:7000ff,100:0b0e14&height=260&section=header&text=PARTH%20PIPALIYA&fontSize=65&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=CYBERNETIC%20SYSTEMS%20ARCHITECT%20%7C%20AI%20%26%20EVENT-DRIVEN%20ENGINEER&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Parth Pipaliya Banner" />
 
@@ -13,7 +20,7 @@
 <br/><br/>
 
 <!-- QUICK SYSTEM BADGES -->
-[![Status](https.img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=opsgenie&logoColor=black)](#)
+[![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=opsgenie&logoColor=black)](#)
 [![Security Level](https://img.shields.io/badge/SECURITY-DEFCON_1-7000FF?style=for-the-badge&logo=shield&logoColor=white)](#)
 [![Focus](https://img.shields.io/badge/CORE_FOCUS-AI_%26_DISTRIBUTED_SYSTEMS-00FF66?style=for-the-badge&logo=cpu&logoColor=black)](#)
 [![Architecture](https://img.shields.io/badge/ARCHITECTURE-EVENT_DRIVEN-FF0055?style=for-the-badge&logo=apachekafka&logoColor=white)](#)
