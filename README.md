@@ -8,7 +8,7 @@
 <br/><br/>
 
 <!-- CAPSULE ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e14,40:00f0ff,70:7000ff,100:0b0e14&height=260&section=header&text=PARTH%20PIPALIYA&fontSize=65&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=CYBERNETIC%20SYSTEMS%20ARCHITECT%20%7C%20AI%20%26%20EVENT-DRIVEN%20ENGINEER&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Parth Pipaliya Banner" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0e14,40:00f0ff,70:7000ff,100:0b0e14&height=260&section=header&text=PARTH%20PIPALIYA&fontSize=65&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=CYBERNETIC%20SYSTEMS%20ARCHITECT%20%7C%20AI%20%26%20EVENT-DRIVEN%20ENGINEER&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Parth Pipaliya Banner" /> -->
 
 <br/>
 
