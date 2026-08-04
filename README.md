@@ -268,7 +268,7 @@ $ sysctl --query-developer-profile --verbose
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/PARTHPIPALIYA1101/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=PARTHPIPALIYA1101&label=SYSTEM_VISITORS&color=00f0ff&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
 </div>
