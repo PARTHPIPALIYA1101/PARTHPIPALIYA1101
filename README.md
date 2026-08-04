@@ -268,7 +268,7 @@ $ sysctl --query-developer-profile --verbose
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PARTHPIPALIYA1101&label=SYSTEM_VISITORS&color=00f0ff&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PARTHPIPALIYA1101.PARTHPIPALIYA1101&left_text=SYSTEM_VISITORS&left_color=0b0e14&right_color=00f0ff" alt="Visitor Counter" />
 </p>
 
 </div>
