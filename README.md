@@ -212,7 +212,7 @@ $ sysctl --query-developer-profile --verbose
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARTHPIPALIYA1101&theme=cyberpunk&hide_border=true&background=0b0e14&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border_radius=10" width="100%" alt="GitHub Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=PARTHPIPALIYA1101&theme=cyberpunk&hide_border=true&background=0b0e14&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border_radius=10" width="100%" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
